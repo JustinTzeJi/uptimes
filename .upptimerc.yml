@@ -43,10 +43,10 @@ sites:
     url: https://www.mohr.gov.my/
   - name: Kementerian Pembangunan Usahawan dan Koperasi
     url: https://www.kuskop.gov.my/
-  - name: Kementerian Pembangunan Wanita, Keluarga dan Masyarakat
-    url: https://www.kpwkm.gov.my/
     type: globalping
     location: malaysia
+  - name: Kementerian Pembangunan Wanita, Keluarga dan Masyarakat
+    url: https://www.kpwkm.gov.my/
   - name: Kementerian Pertanian dan Kesejahteraan Makanan
     url: https://www.kpkm.gov.my/bm/utama
   - name: Kementerian Peralihan Tenaga dan Transformasi Air
