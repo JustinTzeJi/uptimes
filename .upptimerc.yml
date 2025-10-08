@@ -15,6 +15,8 @@ sites:
     url: https://www.ekonomi.gov.my/
   - name: Kementerian Pertahanan
     url: https://www.mod.gov.my/
+    type: globalping
+    location: malaysia
   - name: Kementerian Dalam Negeri
     url: https://www.moha.gov.my/utama/index.php/ms
   - name: Kementerian Luar Negeri
