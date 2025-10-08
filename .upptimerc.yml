@@ -19,14 +19,20 @@ sites:
     url: https://www.moha.gov.my/utama/index.php/ms
   - name: Kementerian Luar Negeri
     url: https://www.kln.gov.my/
+    type: globalping
+    location: malaysia
   - name: Kementerian Pelaburan, Perdagangan dan Industri
     url: https://www.miti.gov.my/index.php
+    type: globalping
+    location: malaysia
   - name: Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup
     url: https://www.kpdn.gov.my/
   - name: Kementerian Sains, Teknologi dan Inovasi
     url: https://www.mosti.gov.my/
   - name: Kementerian Digital
     url: https://www.digital.gov.my/
+    type: globalping
+    location: malaysia
   - name: Kementerian Pendidikan
     url: https://www.moe.gov.my/
   - name: Kementerian Pengajian Tinggi
@@ -39,6 +45,8 @@ sites:
     url: https://www.kuskop.gov.my/
   - name: Kementerian Pembangunan Wanita, Keluarga dan Masyarakat
     url: https://www.kpwkm.gov.my/
+    type: globalping
+    location: malaysia
   - name: Kementerian Pertanian dan Kesejahteraan Makanan
     url: https://www.kpkm.gov.my/bm/utama
   - name: Kementerian Peralihan Tenaga dan Transformasi Air
@@ -47,6 +55,8 @@ sites:
     url: https://www.nres.gov.my/
   - name: Kementerian Perladangan dan Komoditi
     url: https://www.mpic.gov.my/
+    type: globalping
+    location: malaysia
   - name: Kementerian Pengangkutan
     url: https://www.mot.gov.my/
   - name: Kementerian Kerja Raya
@@ -61,6 +71,8 @@ sites:
     url: https://www.motac.gov.my/
   - name: Kementerian Belia dan Sukan
     url: https://www.kbs.gov.my/home
+    type: globalping
+    location: malaysia
   - name: Kementerian Perpaduan Negara
     url: https://www.perpaduan.gov.my/
   - name: Kementerian Komunikasi
@@ -71,6 +83,8 @@ sites:
     url: https://belanjawan.mof.gov.my/
   - name: InfoBanjir
     url: https://publicinfobanjir.water.gov.my/?lang=en
+    type: globalping
+    location: malaysia
   - name: MYDS - Malaysia Government Design System
     url: https://design.digital.gov.my/
   - name: data.gov.my
