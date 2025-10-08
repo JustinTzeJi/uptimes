@@ -1,7 +1,7 @@
 url: https://www.kbs.gov.my/home
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-08T08:57:36.887Z
+status: up
+code: 200
+responseTime: 740
+lastUpdated: 2025-10-08T09:09:35.414Z
 startTime: 2025-10-08T08:57:35.467Z
 generator: Upptime <https://github.com/upptime/upptime>
