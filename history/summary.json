@@ -562,18 +562,20 @@
     "url": "https://design.digital.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/design.digital.gov.my.ico",
     "slug": "myds-malaysia-government-design-system",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2614,
-    "timeDay": 2614,
-    "timeWeek": 2614,
-    "timeMonth": 2614,
-    "timeYear": 2614,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2342,
+    "timeDay": 2342,
+    "timeWeek": 2342,
+    "timeMonth": 2342,
+    "timeYear": 2342,
+    "dailyMinutesDown": {
+      "2025-10-08": 0
+    }
   },
   {
     "name": "data.gov.my",
