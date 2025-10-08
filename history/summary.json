@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kln.gov.my.ico",
     "slug": "kementerian-luar-negeri",
     "status": "up",
-    "uptime": "13.45%",
-    "uptimeDay": "13.45%",
-    "uptimeWeek": "13.45%",
-    "uptimeMonth": "13.45%",
-    "uptimeYear": "13.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 532,
     "timeDay": 532,
     "timeWeek": 532,
     "timeMonth": 532,
     "timeYear": 532,
-    "dailyMinutesDown": {
-      "2025-10-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kementerian Pelaburan, Perdagangan dan Industri",
@@ -115,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.miti.gov.my.ico",
     "slug": "kementerian-pelaburan-perdagangan-dan-industri",
     "status": "up",
-    "uptime": "15.17%",
-    "uptimeDay": "15.17%",
-    "uptimeWeek": "15.17%",
-    "uptimeMonth": "15.17%",
-    "uptimeYear": "15.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 85,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {
-      "2025-10-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup",
@@ -171,19 +167,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.digital.gov.my.ico",
     "slug": "kementerian-digital",
     "status": "up",
-    "uptime": "11.15%",
-    "uptimeDay": "11.15%",
-    "uptimeWeek": "11.15%",
-    "uptimeMonth": "11.15%",
-    "uptimeYear": "11.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 476,
     "timeDay": 476,
     "timeWeek": 476,
     "timeMonth": 476,
     "timeYear": 476,
-    "dailyMinutesDown": {
-      "2025-10-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kementerian Pendidikan",
@@ -263,18 +257,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kuskop.gov.my.ico",
     "slug": "kementerian-pembangunan-usahawan-dan-koperasi",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-08": 13
+      "2025-10-08": 14
     }
   },
   {
@@ -355,19 +349,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mpic.gov.my.ico",
     "slug": "kementerian-perladangan-dan-komoditi",
     "status": "up",
-    "uptime": "8.60%",
-    "uptimeDay": "8.60%",
-    "uptimeWeek": "8.60%",
-    "uptimeMonth": "8.60%",
-    "uptimeYear": "8.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 119,
     "timeWeek": 119,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2025-10-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kementerian Pengangkutan",
@@ -483,19 +475,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kbs.gov.my.ico",
     "slug": "kementerian-belia-dan-sukan",
     "status": "up",
-    "uptime": "4.99%",
-    "uptimeDay": "4.99%",
-    "uptimeWeek": "4.99%",
-    "uptimeMonth": "4.99%",
-    "uptimeYear": "4.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 740,
     "timeDay": 740,
     "timeWeek": 740,
     "timeMonth": 740,
     "timeYear": 740,
-    "dailyMinutesDown": {
-      "2025-10-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kementerian Perpaduan Negara",
@@ -557,18 +547,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/publicinfobanjir.water.gov.my.ico",
     "slug": "info-banjir",
     "status": "up",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 2699,
     "timeDay": 2699,
     "timeWeek": 2699,
     "timeMonth": 2699,
     "timeYear": 2699,
     "dailyMinutesDown": {
-      "2025-10-08": 12
+      "2025-10-08": 13
     }
   },
   {
