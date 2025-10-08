@@ -58,18 +58,20 @@
     "url": "https://www.mod.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mod.gov.my.ico",
     "slug": "kementerian-pertahanan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
     "time": 5632,
     "timeDay": 5632,
     "timeWeek": 5632,
     "timeMonth": 5632,
     "timeYear": 5632,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-08": 1
+    }
   },
   {
     "name": "Kementerian Dalam Negeri",
@@ -257,19 +259,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kuskop.gov.my.ico",
     "slug": "kementerian-pembangunan-usahawan-dan-koperasi",
     "status": "up",
-    "uptime": "3.77%",
-    "uptimeDay": "3.77%",
-    "uptimeWeek": "3.77%",
-    "uptimeMonth": "3.77%",
-    "uptimeYear": "3.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 513,
     "timeDay": 513,
     "timeWeek": 513,
     "timeMonth": 513,
     "timeYear": 513,
-    "dailyMinutesDown": {
-      "2025-10-08": 34
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kementerian Pembangunan Wanita, Keluarga dan Masyarakat",
@@ -547,19 +547,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/publicinfobanjir.water.gov.my.ico",
     "slug": "info-banjir",
     "status": "up",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2725,
     "timeDay": 2725,
     "timeWeek": 2725,
     "timeMonth": 2725,
     "timeYear": 2725,
-    "dailyMinutesDown": {
-      "2025-10-08": 34
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MYDS - Malaysia Government Design System",
