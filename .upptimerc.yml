@@ -67,6 +67,8 @@ sites:
     url: https://www.kpkt.gov.my/
   - name: Kementerian Pembangunan Luar Bandar
     url: https://www.rurallink.gov.my/
+    type: globalping
+    location: malaysia
   - name: Kementerian Wilayah Persekutuan
     url: https://www.jwp.gov.my/
   - name: Kementerian Pelancongan, Seni dan Budaya
