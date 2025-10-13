@@ -89,6 +89,8 @@ sites:
     location: malaysia
   - name: MYDS - Malaysia Government Design System
     url: https://design.digital.gov.my/
+    type: globalping
+    location: malaysia
   - name: data.gov.my
     url: https://data.gov.my/
   - name: OpenDOSM
