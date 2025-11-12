@@ -24,10 +24,10 @@
     "url": "https://mof.gov.my/portal/ms/",
     "icon": "https://icons.duckduckgo.com/ip3/mof.gov.my.ico",
     "slug": "kementerian-kewangan",
-    "status": "up",
+    "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "97.19%",
     "uptimeYear": "97.59%",
     "time": 2256,
@@ -36,6 +36,7 @@
     "timeMonth": 2250,
     "timeYear": 2256,
     "dailyMinutesDown": {
+      "2025-11-12": 2,
       "2025-10-22": 135,
       "2025-10-21": 1045,
       "2025-10-15": 49
@@ -46,10 +47,10 @@
     "url": "https://www.ekonomi.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ekonomi.gov.my.ico",
     "slug": "kementerian-ekonomi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "98.00%",
     "time": 4562,
@@ -58,6 +59,7 @@
     "timeMonth": 4546,
     "timeYear": 4562,
     "dailyMinutesDown": {
+      "2025-11-12": 2,
       "2025-10-25": 33,
       "2025-10-23": 64,
       "2025-10-14": 122,
@@ -87,19 +89,19 @@
     "url": "https://www.moha.gov.my/utama/index.php/ms",
     "icon": "https://icons.duckduckgo.com/ip3/www.moha.gov.my.ico",
     "slug": "kementerian-dalam-negeri",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "92.10%",
-    "uptimeWeek": "98.87%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.77%",
     "time": 3046,
     "timeDay": 3168,
     "timeWeek": 2994,
     "timeMonth": 3013,
     "timeYear": 3046,
     "dailyMinutesDown": {
-      "2025-11-12": 114
+      "2025-11-12": 116
     }
   },
   {
@@ -161,18 +163,19 @@
     "url": "https://www.mosti.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mosti.gov.my.ico",
     "slug": "kementerian-sains-teknologi-dan-inovasi",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.13%",
     "time": 2980,
     "timeDay": 3168,
     "timeWeek": 2842,
     "timeMonth": 2867,
     "timeYear": 2980,
     "dailyMinutesDown": {
+      "2025-11-12": 1,
       "2025-10-11": 441
     }
   },
@@ -253,18 +256,19 @@
     "url": "https://www.mohr.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mohr.gov.my.ico",
     "slug": "kementerian-sumber-manusia",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.88%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.87%",
     "time": 2013,
     "timeDay": 7283,
     "timeWeek": 2702,
     "timeMonth": 2026,
     "timeYear": 2013,
     "dailyMinutesDown": {
+      "2025-11-12": 1,
       "2025-10-16": 63
     }
   },
@@ -309,10 +313,10 @@
     "url": "https://www.kpkm.gov.my/bm/utama",
     "icon": "https://icons.duckduckgo.com/ip3/www.kpkm.gov.my.ico",
     "slug": "kementerian-pertanian-dan-kesejahteraan-makanan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3008,
@@ -320,7 +324,9 @@
     "timeWeek": 3458,
     "timeMonth": 2930,
     "timeYear": 3008,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 1
+    }
   },
   {
     "name": "Kementerian Peralihan Tenaga dan Transformasi Air",
@@ -384,10 +390,10 @@
     "url": "https://www.mot.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mot.gov.my.ico",
     "slug": "kementerian-pengangkutan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2213,
@@ -395,26 +401,28 @@
     "timeWeek": 2294,
     "timeMonth": 2203,
     "timeYear": 2213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 1
+    }
   },
   {
     "name": "Kementerian Kerja Raya",
     "url": "https://www.kkr.gov.my/ms/laman-utama",
     "icon": "https://icons.duckduckgo.com/ip3/www.kkr.gov.my.ico",
     "slug": "kementerian-kerja-raya",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.88%",
-    "time": 4402,
-    "timeDay": 6288,
-    "timeWeek": 5203,
-    "timeMonth": 4428,
-    "timeYear": 4402,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.80%",
+    "time": 4439,
+    "timeDay": 6120,
+    "timeWeek": 5286,
+    "timeMonth": 4473,
+    "timeYear": 4439,
     "dailyMinutesDown": {
-      "2025-11-12": 1,
+      "2025-11-12": 46,
       "2025-11-07": 58
     }
   },
@@ -423,10 +431,10 @@
     "url": "https://www.kpkt.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kpkt.gov.my.ico",
     "slug": "kementerian-perumahan-dan-kerajaan-tempatan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4443,
@@ -434,7 +442,9 @@
     "timeWeek": 4668,
     "timeMonth": 4429,
     "timeYear": 4443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 1
+    }
   },
   {
     "name": "Kementerian Pembangunan Luar Bandar",
@@ -462,11 +472,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jwp.gov.my.ico",
     "slug": "kementerian-wilayah-persekutuan",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.78%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.10%",
     "time": 2800,
     "timeDay": 3336,
     "timeWeek": 2935,
@@ -483,10 +493,10 @@
     "url": "https://www.motac.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.motac.gov.my.ico",
     "slug": "kementerian-pelancongan-seni-dan-budaya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5066,
@@ -494,7 +504,9 @@
     "timeWeek": 4896,
     "timeMonth": 5114,
     "timeYear": 5066,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 1
+    }
   },
   {
     "name": "Kementerian Belia dan Sukan",
@@ -541,9 +553,9 @@
     "url": "https://www.komunikasi.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.komunikasi.gov.my.ico",
     "slug": "kementerian-komunikasi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.19%",
@@ -553,6 +565,7 @@
     "timeMonth": 1522,
     "timeYear": 1527,
     "dailyMinutesDown": {
+      "2025-11-12": 0,
       "2025-10-26": 138,
       "2025-10-25": 206,
       "2025-10-12": 67
@@ -563,9 +576,9 @@
     "url": "https://belanjawan.mof.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/belanjawan.mof.gov.my.ico",
     "slug": "belanjawan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
@@ -575,6 +588,7 @@
     "timeMonth": 2685,
     "timeYear": 2614,
     "dailyMinutesDown": {
+      "2025-11-12": 0,
       "2025-10-15": 48
     }
   },
