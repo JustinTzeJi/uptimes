@@ -1,7 +1,7 @@
 url: https://mof.gov.my/portal/ms/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-12T19:28:13.854Z
+status: up
+code: 200
+responseTime: 2209
+lastUpdated: 2025-11-12T20:35:28.218Z
 startTime: 2025-10-08T08:55:50.539Z
 generator: Upptime <https://github.com/upptime/upptime>
