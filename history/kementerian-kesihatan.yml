@@ -1,7 +1,7 @@
 url: https://moh.gov.my/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-14T21:32:10.754Z
+status: up
+code: 200
+responseTime: 3413
+lastUpdated: 2025-11-14T22:34:20.005Z
 startTime: 2025-10-08T08:56:48.239Z
 generator: Upptime <https://github.com/upptime/upptime>
