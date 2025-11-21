@@ -1,7 +1,7 @@
 url: https://www.nres.gov.my/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-21T13:01:23.520Z
+status: up
+code: 200
+responseTime: 1724
+lastUpdated: 2025-11-21T13:41:43.380Z
 startTime: 2025-10-08T08:57:03.136Z
 generator: Upptime <https://github.com/upptime/upptime>
