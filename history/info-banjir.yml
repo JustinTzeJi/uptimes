@@ -1,7 +1,7 @@
 url: https://publicinfobanjir.water.gov.my/?lang=en
-status: up
-code: 200
-responseTime: 6401
-lastUpdated: 2025-11-23T23:23:45.113Z
+status: down
+code: 500
+responseTime: 331
+lastUpdated: 2025-11-24T04:05:58.898Z
 startTime: 2025-10-08T08:57:44.670Z
 generator: Upptime <https://github.com/upptime/upptime>
