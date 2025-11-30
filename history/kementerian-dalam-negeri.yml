@@ -1,7 +1,7 @@
 url: https://www.moha.gov.my/utama/index.php/ms
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-30T10:34:18.855Z
+status: up
+code: 200
+responseTime: 2407
+lastUpdated: 2025-11-30T11:27:03.274Z
 startTime: 2025-10-08T08:55:59.775Z
 generator: Upptime <https://github.com/upptime/upptime>
