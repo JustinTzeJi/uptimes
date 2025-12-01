@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pmo.gov.my.ico",
     "slug": "pejabat-perdana-menteri",
     "status": "up",
-    "uptime": "97.11%",
-    "uptimeDay": "78.81%",
-    "uptimeWeek": "85.08%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "97.11%",
+    "uptime": "97.12%",
+    "uptimeDay": "79.30%",
+    "uptimeWeek": "85.15%",
+    "uptimeMonth": "94.92%",
+    "uptimeYear": "97.12%",
     "time": 2400,
     "timeDay": 2415,
     "timeWeek": 2440,
-    "timeMonth": 2540,
+    "timeMonth": 2541,
     "timeYear": 2400,
     "dailyMinutesDown": {
-      "2025-11-30": 305,
+      "2025-11-30": 298,
       "2025-11-29": 176,
       "2025-11-28": 132,
       "2025-11-27": 169,
@@ -38,15 +38,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mof.gov.my.ico",
     "slug": "kementerian-kewangan",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "uptimeDay": "96.34%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.26%",
     "time": 2285,
     "timeDay": 1746,
     "timeWeek": 2504,
-    "timeMonth": 2281,
+    "timeMonth": 2293,
     "timeYear": 2285,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -62,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ekonomi.gov.my.ico",
     "slug": "kementerian-ekonomi",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "96.34%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 4622,
     "timeDay": 4184,
     "timeWeek": 4525,
-    "timeMonth": 4735,
+    "timeMonth": 4743,
     "timeYear": 4622,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -95,7 +95,7 @@
     "time": 811,
     "timeDay": 513,
     "timeWeek": 501,
-    "timeMonth": 573,
+    "timeMonth": 575,
     "timeYear": 811,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "time": 2993,
     "timeDay": 2462,
     "timeWeek": 2775,
-    "timeMonth": 2918,
+    "timeMonth": 2924,
     "timeYear": 2993,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -134,7 +134,7 @@
     "time": 364,
     "timeDay": 323,
     "timeWeek": 575,
-    "timeMonth": 389,
+    "timeMonth": 390,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 515,
     "timeDay": 109,
     "timeWeek": 115,
-    "timeMonth": 436,
+    "timeMonth": 446,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2025-11-16": 142,
@@ -173,7 +173,7 @@
     "time": 2675,
     "timeDay": 2294,
     "timeWeek": 2647,
-    "timeMonth": 2702,
+    "timeMonth": 2666,
     "timeYear": 2675,
     "dailyMinutesDown": {}
   },
@@ -191,7 +191,7 @@
     "time": 2923,
     "timeDay": 2677,
     "timeWeek": 2713,
-    "timeMonth": 2817,
+    "timeMonth": 2819,
     "timeYear": 2923,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -213,7 +213,7 @@
     "time": 776,
     "timeDay": 2267,
     "timeWeek": 1993,
-    "timeMonth": 795,
+    "timeMonth": 806,
     "timeYear": 776,
     "dailyMinutesDown": {}
   },
@@ -231,7 +231,7 @@
     "time": 1406,
     "timeDay": 752,
     "timeWeek": 1097,
-    "timeMonth": 1249,
+    "timeMonth": 1216,
     "timeYear": 1406,
     "dailyMinutesDown": {
       "2025-11-27": 69
@@ -251,7 +251,7 @@
     "time": 554,
     "timeDay": 336,
     "timeWeek": 454,
-    "timeMonth": 652,
+    "timeMonth": 661,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-11-18": 96
@@ -271,7 +271,7 @@
     "time": 3900,
     "timeDay": 3332,
     "timeWeek": 3545,
-    "timeMonth": 3860,
+    "timeMonth": 3890,
     "timeYear": 3900,
     "dailyMinutesDown": {
       "2025-11-18": 39,
@@ -292,7 +292,7 @@
     "time": 2039,
     "timeDay": 3499,
     "timeWeek": 2338,
-    "timeMonth": 2175,
+    "timeMonth": 2189,
     "timeYear": 2039,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -332,7 +332,7 @@
     "time": 3129,
     "timeDay": 2993,
     "timeWeek": 2989,
-    "timeMonth": 3301,
+    "timeMonth": 3342,
     "timeYear": 3129,
     "dailyMinutesDown": {}
   },
@@ -350,7 +350,7 @@
     "time": 3126,
     "timeDay": 2247,
     "timeWeek": 2826,
-    "timeMonth": 3281,
+    "timeMonth": 3301,
     "timeYear": 3126,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -363,15 +363,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.petra.gov.my.ico",
     "slug": "kementerian-peralihan-tenaga-dan-transformasi-air",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "94.35%",
-    "uptimeYear": "96.25%",
+    "uptimeYear": "96.26%",
     "time": 2070,
     "timeDay": 2217,
     "timeWeek": 2079,
-    "timeMonth": 2083,
+    "timeMonth": 2080,
     "timeYear": 2070,
     "dailyMinutesDown": {
       "2025-11-26": 53,
@@ -397,7 +397,7 @@
     "time": 1938,
     "timeDay": 1671,
     "timeWeek": 1907,
-    "timeMonth": 1986,
+    "timeMonth": 1985,
     "timeYear": 1938,
     "dailyMinutesDown": {
       "2025-11-27": 75,
@@ -421,7 +421,7 @@
     "time": 137,
     "timeDay": 115,
     "timeWeek": 112,
-    "timeMonth": 167,
+    "timeMonth": 169,
     "timeYear": 137,
     "dailyMinutesDown": {}
   },
@@ -431,15 +431,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mot.gov.my.ico",
     "slug": "kementerian-pengangkutan",
     "status": "up",
-    "uptime": "96.30%",
-    "uptimeDay": "50.28%",
+    "uptime": "96.31%",
+    "uptimeDay": "56.99%",
     "uptimeWeek": "72.36%",
     "uptimeMonth": "93.49%",
-    "uptimeYear": "96.30%",
+    "uptimeYear": "96.31%",
     "time": 2191,
     "timeDay": 1940,
     "timeWeek": 1901,
-    "timeMonth": 2181,
+    "timeMonth": 2176,
     "timeYear": 2191,
     "dailyMinutesDown": {
       "2025-11-30": 688,
@@ -462,7 +462,7 @@
     "time": 4953,
     "timeDay": 5980,
     "timeWeek": 6273,
-    "timeMonth": 5584,
+    "timeMonth": 5625,
     "timeYear": 4953,
     "dailyMinutesDown": {
       "2025-11-12": 46,
@@ -483,7 +483,7 @@
     "time": 4539,
     "timeDay": 4045,
     "timeWeek": 4957,
-    "timeMonth": 4661,
+    "timeMonth": 4672,
     "timeYear": 4539,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -504,7 +504,7 @@
     "time": 2790,
     "timeDay": 2805,
     "timeWeek": 2608,
-    "timeMonth": 2349,
+    "timeMonth": 2356,
     "timeYear": 2790,
     "dailyMinutesDown": {
       "2025-10-13": 120
@@ -524,7 +524,7 @@
     "time": 2807,
     "timeDay": 2573,
     "timeWeek": 2682,
-    "timeMonth": 2832,
+    "timeMonth": 2838,
     "timeYear": 2807,
     "dailyMinutesDown": {
       "2025-11-02": 411,
@@ -546,7 +546,7 @@
     "time": 5005,
     "timeDay": 4464,
     "timeWeek": 4654,
-    "timeMonth": 4888,
+    "timeMonth": 4835,
     "timeYear": 5005,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -567,7 +567,7 @@
     "time": 901,
     "timeDay": 453,
     "timeWeek": 508,
-    "timeMonth": 1124,
+    "timeMonth": 1153,
     "timeYear": 901,
     "dailyMinutesDown": {}
   },
@@ -585,7 +585,7 @@
     "time": 2974,
     "timeDay": 2507,
     "timeWeek": 2687,
-    "timeMonth": 3264,
+    "timeMonth": 3291,
     "timeYear": 2974,
     "dailyMinutesDown": {
       "2025-10-21": 133,
@@ -607,7 +607,7 @@
     "time": 1535,
     "timeDay": 1371,
     "timeWeek": 1512,
-    "timeMonth": 1547,
+    "timeMonth": 1549,
     "timeYear": 1535,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -631,7 +631,7 @@
     "time": 2610,
     "timeDay": 2139,
     "timeWeek": 2363,
-    "timeMonth": 2589,
+    "timeMonth": 2587,
     "timeYear": 2610,
     "dailyMinutesDown": {
       "2025-11-30": 53,
@@ -653,7 +653,7 @@
     "time": 991,
     "timeDay": 116,
     "timeWeek": 1536,
-    "timeMonth": 1060,
+    "timeMonth": 1083,
     "timeYear": 991,
     "dailyMinutesDown": {
       "2025-11-24": 43
@@ -673,7 +673,7 @@
     "time": 503,
     "timeDay": 161,
     "timeWeek": 175,
-    "timeMonth": 171,
+    "timeMonth": 172,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2025-11-29": 70,
@@ -705,7 +705,7 @@
     "time": 481,
     "timeDay": 533,
     "timeWeek": 480,
-    "timeMonth": 461,
+    "timeMonth": 454,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2025-11-24": 62,
@@ -727,7 +727,7 @@
     "time": 528,
     "timeDay": 755,
     "timeWeek": 520,
-    "timeMonth": 545,
+    "timeMonth": 541,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2025-11-24": 62,
@@ -749,7 +749,7 @@
     "time": 1599,
     "timeDay": 1785,
     "timeWeek": 1603,
-    "timeMonth": 1584,
+    "timeMonth": 1594,
     "timeYear": 1599,
     "dailyMinutesDown": {}
   }
