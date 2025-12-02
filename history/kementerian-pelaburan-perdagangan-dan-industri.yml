@@ -1,7 +1,7 @@
 url: https://www.miti.gov.my/index.php
-status: down
-code: 500
-responseTime: 151
-lastUpdated: 2025-12-02T05:36:28.547Z
+status: up
+code: 200
+responseTime: 99
+lastUpdated: 2025-12-02T08:46:58.218Z
 startTime: 2025-10-08T08:56:05.625Z
 generator: Upptime <https://github.com/upptime/upptime>
