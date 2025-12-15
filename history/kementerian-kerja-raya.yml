@@ -1,7 +1,7 @@
 url: https://www.kkr.gov.my/ms/laman-utama
-status: up
-code: 200
-responseTime: 4592
-lastUpdated: 2025-12-14T23:24:16.142Z
+status: down
+code: 503
+responseTime: 1329
+lastUpdated: 2025-12-15T09:48:00.870Z
 startTime: 2025-10-08T08:57:12.426Z
 generator: Upptime <https://github.com/upptime/upptime>
